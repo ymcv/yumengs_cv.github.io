@@ -96,3 +96,7 @@ Training Programs
 =====
 *  Problem-based Learning (PBL) course
 
+
+CV
+=====
+You can find my CV here:[Yumeng's CV](../assets/CV.pdf)
