@@ -44,7 +44,7 @@ Yumeng Song, Yu Gu, Tianyi Li, Jianzhong Qi, Zhenghao Liu, Christian S. Jensen, 
 
 _TKDE 2024_
 
-## Diffusion Model-Enhanced Contrastive Learning for Graph Representation [PDF]
+## Diffusion Model-Enhanced Contrastive Learning for Graph Representation 
 
 Qi Dai, Yumeng Song, Yu Gu, Fangfang Li, Xiaohua Li
 
