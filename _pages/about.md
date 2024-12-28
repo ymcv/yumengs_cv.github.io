@@ -38,7 +38,7 @@ Tianyi Li, Yushuai Li, Yumeng Song, Zhongming Yao, Wei Gao, David Wenzhong Gao
 _IEEE Transactions on Intelligent Vehicles 2024_
 
 
-## CHGNN: A Contrastive Network for Semi-Supervised Hypergraph Learning [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10478209)
+## CHGNN: A Contrastive Network for Semi-Supervised Hypergraph Learning [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10478209)
 
 Yumeng Song, Yu Gu, Tianyi Li, Jianzhong Qi, Zhenghao Liu, Christian S. Jensen, Ge Yu
 
