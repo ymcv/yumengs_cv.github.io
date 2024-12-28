@@ -25,66 +25,46 @@ Publications
 ======
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=4d_LdhQAAAAJ&hl=en).
 
-## Quantifying Trajectory Point Contributions: A Lightweight Framework for Efficient and Effective Query-Driven Trajectory Simplification
+- **Quantifying Trajectory Point Contributions: A Lightweight Framework for Efficient and Effective Query-Driven Trajectory Simplification**  
+  **Yumeng Song**, Yu Gu, Tianyi Li, Yushuai Li, Christian S. Jensen, Ge Yu  
+  *VLDB 2025 (Accepted)*
 
-Yumeng Song, Yu Gu, Tianyi Li, Yushuai Li, Christian S. Jensen, Ge Yu
+- **Networked Digital Twins for Autonomous Vehicles: A New Perspective**  
+  Tianyi Li, Yushuai Li, **Yumeng Song**, Zhongming Yao, Wei Gao, David Wenzhong Gao  
+  *IEEE Transactions on Intelligent Vehicles 2024*
 
-_VLDB 2025(Accepted)_
+- **CHGNN: A Contrastive Network for Semi-Supervised Hypergraph Learning [PDF]**  
+  **Yumeng Song**, Yu Gu, Tianyi Li, Jianzhong Qi, Zhenghao Liu, Christian S. Jensen, Ge Yu  
+  *TKDE 2024*
 
-## Networked Digital Twins for Autonomous Vehicles: A New Perspective
+- **Diffusion Model-Enhanced Contrastive Learning for Graph Representation**  
+  Qi Dai, **Yumeng Song**, Yu Gu, Fangfang Li, Xiaohua Li  
+  *DASFAA 2024*
 
-Tianyi Li, Yushuai Li, Yumeng Song, Zhongming Yao, Wei Gao, David Wenzhong Gao
+- **Learning from Feature and Global Topologies: Adaptive Multi-View Parallel Graph Contrastive Learning**  
+  **Yumeng Song**, Xiaohua Li, Fangfang Li, Ge Yu  
+  *Mathematics 2024*
 
-_IEEE Transactions on Intelligent Vehicles 2024_
+- **CLNIE: A Contrastive Learning Based Node Importance Evaluation Method for Knowledge Graphs with Few Labels**  
+  Jingbo Wang, **Yumeng Song**, Yu Gu, Xiaohua Li, Fangfang Li  
+  *DASFAA 2023*
 
+- **CSGNN: Improving Graph Neural Networks with Contrastive Semi-supervised Learning**  
+  **Yumeng Song**, Yu Gu, Xiaohua Li, Chuanwen Li, Ge Yu  
+  *DASFAA 2022*
 
-## CHGNN: A Contrastive Network for Semi-Supervised Hypergraph Learning [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10478209)
+- **IncreGNN: Incremental Graph Neural Network Learning by Considering Node and Parameter Importance**  
+  Di Wei, Yu Gu, **Yumeng Song**, Zhen Song, Fangfang Li, Ge Yu  
+  *DASFAA 2022*
 
-Yumeng Song, Yu Gu, Tianyi Li, Jianzhong Qi, Zhenghao Liu, Christian S. Jensen, Ge Yu
+- **Survey on AI-powered New Techniques for Query Processing and Optimization**  
+  **Yumeng Song**, Yu Gu, Fangfang Li, Ge Yu  
+  *Journal of Frontiers of Computer Science and Technology 2020*
 
-_TKDE 2024_
+- **Dynamic Preference-Based Group Query in Temporal Geo-Social Networks**  
+  **Yumeng Song**, Mo Chen, Ge Yu  
+  *Journal of Frontiers of Computer Science and Technology 2019*
 
-## Diffusion Model-Enhanced Contrastive Learning for Graph Representation 
-
-Qi Dai, Yumeng Song, Yu Gu, Fangfang Li, Xiaohua Li
-
-_DASFAA 2024_
-
-## Learning from Feature and Global Topologies: Adaptive Multi-View Parallel Graph Contrastive Learning 
-
-Yumeng Song, Xiaohua Li, Fangfang Li,  Ge Yu
-
-_Mathematics 2024_
-
-## CLNIE: A Contrastive Learning Based Node Importance Evaluation Method for Knowledge Graphs with Few Labels 
-
-Jingbo Wang, Yumeng Song, Yu Gu, Xiaohua Li,  Fangfang Li
-
-_DASFAA 2023_
-
-## CSGNN: Improving Graph Neural Networks with Contrastive Semi-supervised Learning 
-
-Yumeng Song, Yu Gu, Xiaohua Li, Chuanwen Li, Ge Yu
-
-_DASFAA 2022_
-
-## IncreGNN: Incremental Graph Neural Network Learning by Considering Node and Parameter Importance 
-
-Di Wei, Yu Gu, Yumeng Song, Zhen Song, Fangfang Li, Ge Yu
-
-_DASFAA 2022_
-
-## Survey on AI-powered New Techniques for Query Processing and Optimization 
-
-Yumeng Song, Yu Gu, Fangfang Li, Ge Yu
-
-_Journal of Frontiers of Computer Science and Technology 2020_
-
-## Dynamic Preference-Based Group Query in Temporal Geo-Social Networks
-
-Yumeng Song, Mo Chen, Ge Yu
-
-_Journal of Frontiers of Computer Science and Technology 2019_
 
 
 Teaching Experience
