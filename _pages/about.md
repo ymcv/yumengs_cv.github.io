@@ -77,4 +77,4 @@ Training Programs
 
 CV
 =====
-You can find my CV here:[Yumeng's CV](https://github.com/ymcv/yumengs_cv.github.io/assets/CV.pdf)
+You can find my CV here:[Yumeng's CV](https://github.com/ymcv/yumengs_cv.github.io/blob/master/files/CV.pdf).
