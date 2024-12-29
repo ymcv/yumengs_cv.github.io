@@ -12,8 +12,8 @@ redirect_from:
 
 
 
-Research Interests
-======
+## Research Interests
+
 
   * Machine Learning for Spatio-temporal Data Management and Analytics
   * Hypergraph Neural Networks
@@ -67,10 +67,10 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 ## Teaching Experience
 
-* Group co-supervisor on DAT7 (one group)  \[FALL 2024\]
+* Group co-supervisor on DAT7 (one group)  \[Fall 2024\]
 * Guest lecture, Algorithm and Data Structures \[Fall 2024\]
   
-##Training Programs
+## Training Programs
 
 *  Problem-based Learning (PBL) course
 
