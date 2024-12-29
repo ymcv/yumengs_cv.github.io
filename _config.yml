@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yumeng Song"
   pronouns         : # example: "she/her"  
-  bio              : "yumengs@cs.aau.dk"#"Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : "Aalborg University"
   uri              : # URL
