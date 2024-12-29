@@ -21,7 +21,7 @@ repository               : "ymcv/yumengs_cv.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image-alignment-150x150.jpg"
+  avatar           : "profile.png"
   name             : "Yumeng Song"
   pronouns         : # example: "she/her"  
   bio              : "yumengs@cs.aau.dk"
