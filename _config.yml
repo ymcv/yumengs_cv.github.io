@@ -12,7 +12,7 @@ title                    : "Yumeng Song|Home"
 title_separator          : "-"
 name                     : &name "Yumeng Song"
 description              : &description "Homepage"
-url                      : https://www.yumengs.top/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+URL                      : "https://www.yumengs.top"# the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ymcv/yumengs_cv.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yumeng Song"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : "Aalborg University"
   uri              : # URL
