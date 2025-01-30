@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-   I am a postdoc with the Department of Computer Science at Aalborg University, Denmark. I received my Bachelor's, Master's, and Ph.D. degrees from Northeastern University in 2017, 2019, and 2024, respectively, under the supervision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/zh_CN/). From 2022 to 2024, I was a guest Ph.D. at Aalborg University, hosted by Assistant Prof. [Tianyi Li](http://tianyili.site/).  I have published several papers in top conferences and journals, including VLDB, TKDE, etc.
+   I am a postdoc with the Department of Computer Science at Aarhus University, Denmark. I received my Bachelor's, Master's, and Ph.D. degrees from Northeastern University in 2017, 2019, and 2024, respectively, under the supervision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/zh_CN/). From 2022 to 2024, I was a guest Ph.D. at Aalborg University, hosted by Assistant Prof. [Tianyi Li](http://tianyili.site/).  I have published several papers in top conferences and journals, including VLDB, TKDE, etc.
 
 
 
@@ -63,12 +63,20 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
   **Yumeng Song**, Mo Chen, Ge Yu  
   *Journal of Frontiers of Computer Science and Technology 2019*
 
+## Academic Services 
 
+* PC member  \[IJCAI 2025\]
+* Reviewer \[IEEE TIV, IEEE Netowrk, IEEE TII, IEEE TASE\]
+
+## Invited Talks 
+
+* Exploring Graph Neural Networks and Efficient Query-Driven Trajectory Simplification \[Feb 2025 in Aarhus University\]
 
 ## Teaching Experience
 
 * Group co-supervisor on DAT7 (one group)  \[Fall 2024\]
 * Guest lecture, Algorithm and Data Structures \[Fall 2024\]
+* Guest lecture, Data Mining \[Spring 2025\]
   
 ## Training Programs
 
