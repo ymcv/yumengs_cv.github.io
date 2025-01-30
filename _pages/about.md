@@ -76,8 +76,8 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 * Group co-supervisor on DAT7 (one group)  \[Fall 2024\]
 * Guest lecture, Algorithm and Data Structures \[Fall 2024\]
-* Guest lecture, Data Mining \[Spring 2025\]
-  
+
+
 ## Training Programs
 
 *  Problem-based Learning (PBL) course
