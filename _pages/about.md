@@ -70,7 +70,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 ## Invited Talks 
 
-* Exploring Graph Neural Networks and Efficient Query-Driven Trajectory Simplification \[Feb 2025 in Aarhus University\]
+* Faculty Lecture \[Feb 2025 at Aarhus University\]
 
 ## Teaching Experience
 
