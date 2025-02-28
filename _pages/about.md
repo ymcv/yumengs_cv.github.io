@@ -85,5 +85,5 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 
 ## CV
-<a href="yumengs.top/files/CV.pdf">Download my CV here</a>
+<a href="files/CV.pdf">Download my CV here</a>
 
