@@ -86,3 +86,5 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 ## CV
 You can find my CV here:[Yumeng's CV](https://github.com/ymcv/yumengs_cv.github.io/blob/master/files/CV.pdf).
+<a href="https://github.com/ymcv/yumengs_cv.github.io/blob/master/files/CV.pdf" download>Download my CV here</a>
+
