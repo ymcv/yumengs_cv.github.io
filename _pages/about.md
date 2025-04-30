@@ -65,7 +65,9 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 ## Academic Services 
 
-* PC member  \[IJCAI 2025\]
+
+* PC member  \[IJCAI 2025, ECAI 2025\ ]
+* Guest Editor  \[Sustainability\]
 * Reviewer \[IEEE TKDE, IEEE TIV, IEEE Netowrk, IEEE TII, IEEE TASE\]
 
 ## Invited Talks 
@@ -74,9 +76,9 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 * Invited Talk \[Feb 2025 by Rambøll\]
 
 ## Teaching Experience
-* Guest lecture, Data Mining \[Spring 2025\]
+* Guest lecturer, Data Mining \[Spring 2025\]
 * Group co-supervisor on DAT7 (one group)  \[Fall 2024\]
-* Guest lecture, Algorithm and Data Structures \[Fall 2024\]
+* Guest lecturer, Algorithm and Data Structures \[Fall 2024\]
 
 
 ## Training Programs
