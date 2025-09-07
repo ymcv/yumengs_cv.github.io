@@ -25,7 +25,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 - **Quantifying Trajectory Point Contributions: A Lightweight Framework for Efficient and Effective Query-Driven Trajectory Simplification**  
   **Yumeng Song**, Yu Gu, Tianyi Li, Yushuai Li, Christian S. Jensen, Ge Yu  
-  *VLDB 2025 (Accepted)*
+  *VLDB 2025*
 
 - **Networked Digital Twins for Autonomous Vehicles: A New Perspective**  
   Tianyi Li, Yushuai Li, **Yumeng Song**, Zhongming Yao, Wei Gao, David Wenzhong Gao  
