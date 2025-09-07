@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-   I am a postdoc with the Department of Computer Science at Aarhus University, Denmark.  I am currently working closely with Prof. [Ira Assent](https://pure.au.dk/portal/en/persons/ira%40cs.au.dk/?sort=forfatter&visalle=), Prof. [Kristian Torp](https://vbn.aau.dk/da/persons/torp), and Assistant Prof. [Tianyi Li](http://tianyili.site/). I received my Bachelor's, Master's, and Ph.D. degrees from Northeastern University in 2017, 2019, and 2024, respectively, under the supervision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/zh_CN/). From 2022 to 2024, I was a guest Ph.D. at Aalborg University, hosted by Assistant Prof. [Tianyi Li](http://tianyili.site/).  I have published several papers in top conferences and journals, including VLDB, TKDE, etc.
+   I am an Assistant Professor with the Department of Computer Science at Aalborg University, Denmark.  I am currently working closely with Prof. [Christian S. Jensen](https://csj.cs.aau.dk/),  Associate Prof. [Tianyi Li](http://tianyili.site/), Prof. [Kristian Torp](https://vbn.aau.dk/da/persons/torp), and Prof. [Ira Assent](https://pure.au.dk/portal/en/persons/ira%40cs.au.dk/?sort=forfatter&visalle=). I received my Bachelor's, Master's, and Ph.D. degrees from Northeastern University in 2017, 2019, and 2024, respectively, under the supervision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/zh_CN/). From 2022 to 2024, I was a guest Ph.D. at Aalborg University, hosted by Assistant Prof. [Tianyi Li](http://tianyili.site/).  I have published several papers in top conferences and journals, including VLDB, TKDE, etc.
 
 
 
@@ -76,6 +76,8 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 * Invited Talk \[Feb 2025 by Rambøll\]
 
 ## Teaching Experience
+* Lecturer, Database Systems \[Fall 2025\]
+* Group co-supervisor on SW7 (one group)  \[Fall 2025\]
 * Guest lecturer, Data Mining \[Spring 2025\]
 * Group co-supervisor on DAT7 (one group)  \[Fall 2024\]
 * Guest lecturer, Algorithm and Data Structures \[Fall 2024\]
