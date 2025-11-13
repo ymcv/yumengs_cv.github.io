@@ -78,7 +78,10 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 ## Teaching Experience
 * Lecturer, Database Systems \[Fall 2025\]
 * Group supervisor on SW7 (one group)  \[Fall 2025\]
+* Guest Lecturer, Data Mining \[Spring 2025\]
 * Group co-supervisor on DAT7 (one group)  \[Fall 2024\]
+* Guest Lecturer, Algorithms and Data Structures \[Fall 2024\]
+
 
 
 
