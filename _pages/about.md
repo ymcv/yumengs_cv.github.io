@@ -18,10 +18,20 @@ redirect_from:
   * Machine Learning for Spatio-temporal Data Management and Analytics
   * Hypergraph Neural Networks
   * Graph Neural Networks
+  * Blockchain-based Spatio-Temporal Querying
+  * LLM-enhanced Smart Grid.
+
+## Awards
+ *Grand Prize| Supervisor 2025 \[IEEE SmartGridComm Student Video Competition Toronto, Canada\]
+
 
 ## Publications
 
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=4d_LdhQAAAAJ&hl=en).
+
+- **TCRL: Temporal-Coupled Adversarial Training for Robust Constrained Reinforcement Learning inWorst-Case Scenarios.**  
+  Wentao Xu, Zhongming Yao, Weihao Li, Zhenghang Song, **Yumeng Song**, Tianyi Li, Yushuai Li
+  *AAMAS 2026*
 
 - **Quantifying Trajectory Point Contributions: A Lightweight Framework for Efficient and Effective Query-Driven Trajectory Simplification**  
   **Yumeng Song**, Yu Gu, Tianyi Li, Yushuai Li, Christian S. Jensen, Ge Yu  
@@ -66,7 +76,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 ## Academic Services 
 
 
-* PC member  \[IJCAI 2025, ECAI 2025\ ]
+* PC member  \[IJCAI 2025-2026, ECAI 2025-2026\]
 * Guest Editor  \[Sustainability\]
 * Reviewer \[IEEE TKDE, IEEE TIV, IEEE Netowrk, IEEE TII, IEEE TASE\]
 
@@ -74,6 +84,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 * Faculty Lecture \[Feb 2025 at Aarhus University\]
 * Invited Talk \[Feb 2025 by Rambøll\]
+* Invited Talk \[Jul 2025 by Northeastern University\]
 
 ## Teaching Experience
 * Lecturer, Database Systems \[Fall 2025\]
