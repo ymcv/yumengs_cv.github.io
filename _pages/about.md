@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-   I am an Assistant Professor with the Department of Computer Science at Aalborg University, Denmark.  I am currently working closely with Prof. [Christian S. Jensen](https://csj.cs.aau.dk/),  Associate Prof. [Tianyi Li](http://tianyili.site/), Prof. [Kristian Torp](https://vbn.aau.dk/da/persons/torp), and Prof. [Ira Assent](https://pure.au.dk/portal/en/persons/ira%40cs.au.dk/?sort=forfatter&visalle=). I received my Bachelor's, Master's, and Ph.D. degrees from Northeastern University in 2017, 2019, and 2024, respectively, under the supervision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/zh_CN/). From 2022 to 2024, I was a guest Ph.D. at Aalborg University, hosted by Assistant Prof. [Tianyi Li](http://tianyili.site/).  I have published several papers in top conferences and journals, including VLDB, TKDE, etc.
+   I am an Assistant Professor with the Department of Computer Science at Aalborg University, Denmark.  I am currently working closely with Prof. [Christian S. Jensen](https://csj.cs.aau.dk/),  Associate Prof. [Tianyi Li](http://tianyili.site/), Prof. [Kristian Torp](https://vbn.aau.dk/da/persons/torp), and Prof. [Ira Assent](https://pure.au.dk/portal/en/persons/ira%40cs.au.dk/?sort=forfatter&visalle=). I received my Bachelor's, Master's, and Ph.D. degrees from [Northeastern University](https://idma-neu.github.io/) in 2017, 2019, and 2024, respectively, under the supervision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/zh_CN/). From 2022 to 2024, I was a guest Ph.D. at Aalborg University, hosted by Assistant Prof. [Tianyi Li](http://tianyili.site/).  I have published several papers in top conferences and journals, including VLDB, TKDE, etc.
 
 
 
